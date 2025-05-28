@@ -55,6 +55,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vis465/vis465/output/snake.svg" alt="Snake animation" />
-
 ###
