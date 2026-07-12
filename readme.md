@@ -1,24 +1,113 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+````md
+# Vishal
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vis465" alt="vis465" /></a> </p>
+> Full Stack Developer from India, building scalable web applications and exploring AI infrastructure.
 
-- 🌱 I’m currently learning **Vector DBs**
+I enjoy working across the stack—from crafting responsive React interfaces to designing backend systems with Node.js and Python. Lately, I've been spending most of my time exploring retrieval systems, vector databases, and AI-powered applications.
 
-- 💬 Ask me about **React, Node, Python, Mongo**
+---
 
-- 📫 How to reach me **visv6812@gmail.com**
+## What I'm Building
 
-- ⚡ Fun fact **I am a developer with whom you can yap about your golden bugs!**
+- 🤖 Exploring RAG and Vector Databases
+- ⚡ Full-stack applications with React & Node.js
+- 🏗️ Backend systems focused on scalability
+- 🧪 Side projects that teach me something new
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishal-v46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-v46" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vis465&show_icons=true&locale=en" alt="vis465" /></p>
+| | |
+|---|---|
+| **Languages** | JavaScript • Python • Java |
+| **Frontend** | React • HTML • CSS |
+| **Backend** | Node.js • Express |
+| **Databases** | MongoDB • MySQL |
+| **Cloud & Tools** | AWS • Git • Linux • Postman • Figma |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vis465&" alt="vis465" /></p>
+---
+
+## Current Focus
+
+```text
+✓ Building production-ready applications
+✓ Learning AI infrastructure
+✓ Improving backend architecture
+✓ Writing cleaner, maintainable code
+```
+
+---
+
+## A Few Things About Me
+
+- I enjoy debugging more than I probably should.
+- I like understanding *why* something works—not just making it work.
+- I'm always experimenting with new technologies and building side projects.
+- I believe good software is simple, reliable, and easy to maintain.
+
+---
+
+## GitHub
+
+```bash
+> whoami
+
+Full Stack Developer
+
+> interests
+
+Web Development
+Backend Engineering
+AI Engineering
+Developer Tools
+
+> currently_learning
+
+Vector Databases
+RAG
+System Design
+Cloud Architecture
+```
+
+---
+
+## Featured Projects
+
+> Replace these with your repositories.
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| **Project One** | One-line description | React • Node.js |
+| **Project Two** | One-line description | Python • MongoDB |
+| **Project Three** | One-line description | React • Express |
+| **Project Four** | One-line description | AI • Vector DB |
+
+---
+
+## Currently Reading
+
+- Designing Data-Intensive Applications
+- Building AI-powered software
+- Distributed systems
+- Clean architecture
+
+---
+
+## Connect
+
+- 📧 **Email:** visv6812@gmail.com
+- 💼 **LinkedIn:** linkedin.com/in/vishal-v46
+
+---
+
+> *"Make it work. Make it simple. Then make it fast."*
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=vis465&show_icons=true&hide_border=true&rank_icon=github)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vis465&hide_border=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=vis465&hide_border=true)
+````
